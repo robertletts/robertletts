@@ -6,6 +6,8 @@
 
 + Junior Front-End Web Developer based in Crystal Palace, London. 🖤
 
++ MSc Computer Science from Birkbeck, University of London 📚
+
 + Currently working at Red Snapper with Vue.js, SCSS, and Tailwind CSS ⚡️
 
 + Studying TypeScript 👨‍💻
