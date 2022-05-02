@@ -6,7 +6,7 @@
 
 + Junior Front-End Web Developer based in Crystal Palace, London. 🖤
 
-+ Currently working at Red Snapper making sites with Vue.js, SCSS, and Tailwind CSS ⚡️
++ Currently working at Red Snapper with Vue.js, SCSS, and Tailwind CSS ⚡️
 
 + Currently Studying: TypeScript and Nuxt 👨‍💻
 
