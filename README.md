@@ -8,6 +8,8 @@
 
 + Currently working at Red Snapper with Vue.js, SCSS, and Tailwind CSS ⚡️
 
-+ Currently Studying: TypeScript and Nuxt 👨‍💻
++ Studying TypeScript 👨‍💻
+
++ Dabbling with Rust 🦀
 
 [![Rob Letts GitHub stats](https://github-readme-stats.vercel.app/api?username=robertletts)](https://github.com/robertletts/github-readme-stats)
