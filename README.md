@@ -10,7 +10,7 @@
 
 + Currently working at [Red Snapper](https://www.redsnapper.net/) with Vue.js, SCSS, and Tailwind CSS ⚡️
 
-+ Studying TypeScript 👨‍💻
++ Studying TypeScript and Three.js 👨‍💻
 
 + Dabbling with Rust 🦀
 
