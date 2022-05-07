@@ -12,4 +12,6 @@
 
 + Studying TypeScript 👨‍💻
 
++ Dabbling with Rust... 🦀
+
 [![Rob Letts GitHub stats](https://github-readme-stats.vercel.app/api?username=robertletts)](https://github.com/robertletts/github-readme-stats)
