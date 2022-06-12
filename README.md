@@ -10,6 +10,4 @@
 
 + Currently working at [Red Snapper](https://www.redsnapper.net/) with Vue.js, SCSS, and Tailwind CSS ⚡️
 
-+ Private Projects: TypeScript and Nuxt 👨‍💻
-
 [![Rob Letts GitHub stats](https://github-readme-stats.vercel.app/api?username=robertletts)](https://github.com/robertletts/github-readme-stats)
