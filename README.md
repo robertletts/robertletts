@@ -6,7 +6,7 @@
 
 + Web Developer based in Crystal Palace, London. 🦖
 
-+ Specialist in Vue.js and CSS ⚡️
++ Specialist in Vue.js and modern CSS ⚡️
 
 + MSc Computer Science from [Birkbeck, University of London](https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc) 📚
 
