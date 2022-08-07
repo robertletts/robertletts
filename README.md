@@ -2,15 +2,15 @@
 
 + Pronouns: He/Him 👍 
 
-+ [Work Profile](https://github.com/rob-letts)
-
 + Contact: roblettsdev@gmail.com 📮
 
 + Web Developer based in Crystal Palace, London. 🦖
 
++ Specialist in Vue.js and modern CSS ⚡️
+
 + Front End Engineer at [TixTrack](https://www.tixtrack.com/). 🎟 
 
-+ Specialist in Vue.js and modern CSS ⚡️
++ [Work Profile](https://github.com/rob-letts)
 
 + MSc Computer Science from [Birkbeck, University of London](https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc) 📚
 
