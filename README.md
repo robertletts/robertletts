@@ -10,7 +10,7 @@
 
 + Front End Engineer at [TixTrack](https://www.tixtrack.com/) 🎟 
 
-+ [Work Profile available here](https://github.com/rob-letts)
++ [Work profile available here](https://github.com/rob-letts) 🚀
 
 + MSc Computer Science from [Birkbeck, University of London](https://www.bbk.ac.uk/study/2022/postgraduate/programmes/TMSCOSCI_C/0/computer-science-msc) 📚
 
