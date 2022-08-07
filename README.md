@@ -4,11 +4,11 @@
 
 + Contact: roblettsdev@gmail.com 📮
 
-+ Web Developer based in Crystal Palace, London. 🦖
++ Web Developer based in Crystal Palace, London 🦖
 
 + Specialist in Vue.js and modern CSS ⚡️
 
-+ Front End Engineer at [TixTrack](https://www.tixtrack.com/). 🎟 
++ Front End Engineer at [TixTrack](https://www.tixtrack.com/) 🎟 
 
 + [Work Profile available here](https://github.com/rob-letts)
 
