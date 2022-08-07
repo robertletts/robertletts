@@ -2,11 +2,13 @@
 
 + Pronouns: He/Him 👍 
 
++ [Work Profile](https://github.com/rob-letts)
+
 + Contact: roblettsdev@gmail.com 📮
 
 + Web Developer based in Crystal Palace, London. 🦖
 
-+ Front End Engineer at [TixTrack](https://www.tixtrack.com/). 🎟 [Work Profile](https://github.com/rob-letts)
++ Front End Engineer at [TixTrack](https://www.tixtrack.com/). 🎟 
 
 + Specialist in Vue.js and modern CSS ⚡️
 
